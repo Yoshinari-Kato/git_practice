@@ -387,10 +387,10 @@ some_list=[1,2,3,4,5]
 
 # この場合はxとyが表示されて終了する。なので辞書型のメソッドを使う
 
-d = {'x':100,'y':200}
-print(d.items())
-for key, value in d.items():
-    print('{}:{}'.format(key,value))
+# d = {'x':100,'y':200}
+# print(d.items())
+# for key, value in d.items():
+    # print('{}:{}'.format(key,value))
 
 # 関数定義
 def say_something():
